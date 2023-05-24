@@ -18,7 +18,7 @@ body {
 h1 {
   display: inline-flex;
   font-family: "Impact", sans-serif;
-  background: url(/images/slide.jpg);
+  background: url(/src/images/slide.jpg);
   font-size: 8rem;
   background-clip: text;
   -webkit-background-clip: text;

@@ -14,7 +14,7 @@ const Navbar = () => {
     <>
       <Nav>
         <NavLink to="/">
-          <img src={logo} style={{ height: 50, width: 50 }} />
+          <img src={logo} style={{ height: 50, width: 50 }} alt="logo" />
         </NavLink>
         <Bars />
         <NavMenu>
